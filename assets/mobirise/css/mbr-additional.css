@@ -725,7 +725,9 @@ a {
   top: 0;
 }
 .cid-tvVcm7XX1z {
-  background-image: url("../../../assets/images/background7.jpg");
+  padding-top: 1rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
 }
 .cid-tvVcm7XX1z .mbr-fallback-image.disabled {
   display: none;
